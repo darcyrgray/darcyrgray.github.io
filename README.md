@@ -1,4 +1,8 @@
-# darcyrgray.github.io
+
+<div class="sidebar">
+  <img src="/assets/images/your-photo.jpg" alt="Your Name" style="width:150px; border-radius:50%;">
+  </nav>
+</div>
 
 Welcome to my site! Choose from the index of topics below:
 
