@@ -1,6 +1,6 @@
 
 <div class="sidebar">
-  <img src="/assets/images/your-photo.jpg" alt="Darcy Gray" style="width:150px; border-radius:50%;">
+  <img src="/assets/images/Picture5.jpg" alt="Darcy Gray" style="width:150px; border-radius:50%;">
   </nav>
 </div>
 
