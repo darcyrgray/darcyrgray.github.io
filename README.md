@@ -1,4 +1,9 @@
 # darcyrgray.github.io
 
-<a href="mrsa_-_a_tale_of_three_types.pdf" target="_blank">MRSA document (PDF)</a>
-Summary:
+Welcome to my site! Choose from the index of topics below:
+
+- [MRSA](MRSA.html)
+- [Page 2](page2.html)
+- [Page 3](page3.html)
+
+  
